@@ -5,8 +5,8 @@ import (
 	"log"
 	"net"
 
-	"github.com/codingpot/server-client-template-go/pkg/pbs"
-	"github.com/codingpot/server-client-template-go/pkg/serv"
+	"github.com/deep-diver/test1/pkg/pbs"
+	"github.com/deep-diver/test1/pkg/serv"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/health"
