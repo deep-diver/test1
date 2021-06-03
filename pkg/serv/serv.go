@@ -3,7 +3,7 @@ package serv
 import (
 	"context"
 
-	"github.com/codingpot/server-client-template-go/pkg/pbs"
+	"github.com/deep-diver/test1/pkg/pbs"
 )
 
 type Server struct {

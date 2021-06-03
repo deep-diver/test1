@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/codingpot/server-client-template-go/pkg/pbs"
+	"github.com/deep-diver/test1/pkg/pbs"
 
 	"google.golang.org/grpc"
 )
